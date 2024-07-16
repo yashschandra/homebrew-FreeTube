@@ -1,4 +1,4 @@
-class FreeTube < Formula
+class Freetube < Formula
   desc "Watch YouTube videos without ads"
   homepage "<https://github.com/yashschandra/FreeTube>"
   url "<https://github.com/yashschandra/FreeTube/releases/download/v0.1/freetube-macos-arm64.tar.gz>"
