@@ -7,6 +7,6 @@ class Freetube < Formula
   version "0.1"
 
   def install
-    bin.install "freetube"
+    bin.install "freetube-macos-arm64"
   end
 end
